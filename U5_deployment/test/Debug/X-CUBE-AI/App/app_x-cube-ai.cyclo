@@ -1,0 +1,15 @@
+../X-CUBE-AI/App/app_x-cube-ai.c:104:13:ai_log_err	2
+../X-CUBE-AI/App/app_x-cube-ai.c:117:12:ai_boostrap	4
+../X-CUBE-AI/App/app_x-cube-ai.c:160:12:ai_run	2
+../X-CUBE-AI/App/app_x-cube-ai.c:214:6:adaptive_avg_pool_1x1	4
+../X-CUBE-AI/App/app_x-cube-ai.c:247:6:adaptive_avg_pool_2x2	6
+../X-CUBE-AI/App/app_x-cube-ai.c:288:6:pool_features	4
+../X-CUBE-AI/App/app_x-cube-ai.c:372:7:compute_anomaly_score	9
+../X-CUBE-AI/App/app_x-cube-ai.c:422:5:send_initial_ready_signal	1
+../X-CUBE-AI/App/app_x-cube-ai.c:437:5:wait_for_python_init	3
+../X-CUBE-AI/App/app_x-cube-ai.c:472:5:send_ready_for_next	1
+../X-CUBE-AI/App/app_x-cube-ai.c:484:5:send_image_received_ack	1
+../X-CUBE-AI/App/app_x-cube-ai.c:491:5:acquire_and_process_data	3
+../X-CUBE-AI/App/app_x-cube-ai.c:528:5:post_process	4
+../X-CUBE-AI/App/app_x-cube-ai.c:626:6:MX_X_CUBE_AI_Init	1
+../X-CUBE-AI/App/app_x-cube-ai.c:643:6:MX_X_CUBE_AI_Process	7

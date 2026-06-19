@@ -1,0 +1,504 @@
+PS C:\Users\Max\Desktop\MLonMCU> & C:\Users\Max\AppData\Local\Programs\Python\Python310\python.exe c:/Users/Max/Desktop/MLonMCU/train_mvtec.py
+
+======================================================================
+CLASS: can
+======================================================================
+Epoch 01 Loss 0.00024340
+Epoch 02 Loss 0.00003302
+Epoch 03 Loss 0.00001766
+Epoch 04 Loss 0.00001266
+Epoch 05 Loss 0.00001019
+Epoch 06 Loss 0.00000860
+Epoch 07 Loss 0.00000743
+Epoch 08 Loss 0.00000642
+Epoch 09 Loss 0.00000555
+Epoch 10 Loss 0.00000485
+Epoch 11 Loss 0.00000417
+Epoch 12 Loss 0.00000363
+Epoch 13 Loss 0.00000318
+Epoch 14 Loss 0.00000280
+Epoch 15 Loss 0.00000246
+Epoch 16 Loss 0.00000221
+Epoch 17 Loss 0.00000199
+Epoch 18 Loss 0.00000179
+Epoch 19 Loss 0.00000160
+Epoch 20 Loss 0.00000146
+Epoch 21 Loss 0.00000130
+Epoch 22 Loss 0.00000120
+Epoch 23 Loss 0.00000108
+Epoch 24 Loss 0.00000100
+Epoch 25 Loss 0.00000090
+threshold=0.000805 (mu=0.000805, sigma=0.000634)
+[BASE] AUC=0.5761 ACC=0.5309 F1=0.4933
+PARAMS=245,024
+
+Pruning 10%
+Epoch 01 Loss 0.00000660
+Epoch 02 Loss 0.00000207
+Epoch 03 Loss 0.00000117
+AUC=0.5150 ACC=0.4815 F1=0.2500 SIZE=0.754MB
+
+Pruning 20%
+Epoch 01 Loss 0.00001353
+Epoch 02 Loss 0.00000443
+Epoch 03 Loss 0.00000277
+AUC=0.5191 ACC=0.4877 F1=0.4196 SIZE=0.596MB
+
+Pruning 30%
+Epoch 01 Loss 0.00001657
+Epoch 02 Loss 0.00000567
+Epoch 03 Loss 0.00000335
+AUC=0.5563 ACC=0.5000 F1=0.4000 SIZE=0.454MB
+
+Pruning 40%
+Epoch 01 Loss 0.00002392
+Epoch 02 Loss 0.00000667
+Epoch 03 Loss 0.00000403
+AUC=0.5688 ACC=0.5370 F1=0.3902 SIZE=0.334MB
+
+Pruning 50%
+Epoch 01 Loss 0.00003087
+Epoch 02 Loss 0.00000701
+Epoch 03 Loss 0.00000436
+AUC=0.5330 ACC=0.4506 F1=0.3407 SIZE=0.238MB
+
+======================================================================
+CLASS: fabric
+======================================================================
+Epoch 01 Loss 0.00019259
+Epoch 02 Loss 0.00003149
+Epoch 03 Loss 0.00001628
+Epoch 04 Loss 0.00001115
+Epoch 05 Loss 0.00000869
+Epoch 06 Loss 0.00000726
+Epoch 07 Loss 0.00000622
+Epoch 08 Loss 0.00000535
+Epoch 09 Loss 0.00000463
+Epoch 10 Loss 0.00000403
+Epoch 11 Loss 0.00000354
+Epoch 12 Loss 0.00000314
+Epoch 13 Loss 0.00000282
+Epoch 14 Loss 0.00000254
+Epoch 15 Loss 0.00000230
+Epoch 16 Loss 0.00000209
+Epoch 17 Loss 0.00000190
+Epoch 18 Loss 0.00000173
+Epoch 19 Loss 0.00000157
+Epoch 20 Loss 0.00000143
+Epoch 21 Loss 0.00000130
+Epoch 22 Loss 0.00000118
+Epoch 23 Loss 0.00000106
+Epoch 24 Loss 0.00000095
+Epoch 25 Loss 0.00000085
+threshold=0.003856 (mu=0.003856, sigma=0.002305)
+[BASE] AUC=0.5614 ACC=0.5192 F1=0.5283
+PARAMS=245,024
+
+Pruning 10%
+Epoch 01 Loss 0.00000606
+Epoch 02 Loss 0.00000208
+Epoch 03 Loss 0.00000126
+AUC=0.3773 ACC=0.4872 F1=0.5604 SIZE=0.754MB
+
+Pruning 20%
+Epoch 01 Loss 0.00001226
+Epoch 02 Loss 0.00000363
+Epoch 03 Loss 0.00000205
+AUC=0.4737 ACC=0.4551 F1=0.5550 SIZE=0.596MB
+
+Pruning 30%
+Epoch 01 Loss 0.00001319
+Epoch 02 Loss 0.00000395
+Epoch 03 Loss 0.00000227
+AUC=0.4551 ACC=0.4679 F1=0.4970 SIZE=0.454MB
+
+Pruning 40%
+Epoch 01 Loss 0.00001691
+Epoch 02 Loss 0.00000468
+Epoch 03 Loss 0.00000272
+AUC=0.4973 ACC=0.4551 F1=0.3307 SIZE=0.334MB
+
+Pruning 50%
+Epoch 01 Loss 0.00002620
+Epoch 02 Loss 0.00000640
+Epoch 03 Loss 0.00000368
+AUC=0.4037 ACC=0.4231 F1=0.2500 SIZE=0.238MB
+
+======================================================================
+CLASS: fruit_jelly
+======================================================================
+Epoch 01 Loss 0.00060943
+Epoch 02 Loss 0.00012153
+Epoch 03 Loss 0.00005544
+Epoch 04 Loss 0.00003218
+Epoch 05 Loss 0.00002176
+Epoch 06 Loss 0.00001616
+Epoch 07 Loss 0.00001302
+Epoch 08 Loss 0.00001103
+Epoch 09 Loss 0.00000955
+Epoch 10 Loss 0.00000838
+Epoch 11 Loss 0.00000749
+Epoch 12 Loss 0.00000680
+Epoch 13 Loss 0.00000624
+Epoch 14 Loss 0.00000575
+Epoch 15 Loss 0.00000531
+Epoch 16 Loss 0.00000493
+Epoch 17 Loss 0.00000458
+Epoch 18 Loss 0.00000426
+Epoch 19 Loss 0.00000395
+Epoch 20 Loss 0.00000365
+Epoch 21 Loss 0.00000338
+Epoch 22 Loss 0.00000312
+Epoch 23 Loss 0.00000288
+Epoch 24 Loss 0.00000264
+Epoch 25 Loss 0.00000242
+threshold=0.000714 (mu=0.000714, sigma=0.001502)
+[BASE] AUC=0.4217 ACC=0.3875 F1=0.4368
+PARAMS=245,024
+
+Pruning 10%
+Epoch 01 Loss 0.00001550
+Epoch 02 Loss 0.00000642
+Epoch 03 Loss 0.00000407
+AUC=0.4075 ACC=0.2500 F1=0.2500 SIZE=0.754MB
+
+Pruning 20%
+Epoch 01 Loss 0.00002033
+Epoch 02 Loss 0.00000717
+Epoch 03 Loss 0.00000486
+AUC=0.4392 ACC=0.3625 F1=0.3544 SIZE=0.596MB
+
+Pruning 30%
+Epoch 01 Loss 0.00002136
+Epoch 02 Loss 0.00000728
+Epoch 03 Loss 0.00000516
+AUC=0.5625 ACC=0.3625 F1=0.3704 SIZE=0.454MB
+
+Pruning 40%
+Epoch 01 Loss 0.00002559
+Epoch 02 Loss 0.00000927
+Epoch 03 Loss 0.00000654
+AUC=0.4475 ACC=0.3500 F1=0.3500 SIZE=0.334MB
+
+Pruning 50%
+Epoch 01 Loss 0.00004254
+Epoch 02 Loss 0.00001370
+Epoch 03 Loss 0.00000933
+AUC=0.4383 ACC=0.2875 F1=0.1739 SIZE=0.238MB
+
+======================================================================
+CLASS: rice
+======================================================================
+Epoch 01 Loss 0.00018719
+Epoch 02 Loss 0.00002639
+Epoch 03 Loss 0.00001336
+Epoch 04 Loss 0.00000912
+Epoch 05 Loss 0.00000705
+Epoch 06 Loss 0.00000593
+Epoch 07 Loss 0.00000514
+Epoch 08 Loss 0.00000449
+Epoch 09 Loss 0.00000394
+Epoch 10 Loss 0.00000348
+Epoch 11 Loss 0.00000307
+Epoch 12 Loss 0.00000273
+Epoch 13 Loss 0.00000243
+Epoch 14 Loss 0.00000216
+Epoch 15 Loss 0.00000191
+Epoch 16 Loss 0.00000166
+Epoch 17 Loss 0.00000140
+Epoch 18 Loss 0.00000116
+Epoch 19 Loss 0.00000095
+Epoch 20 Loss 0.00000078
+Epoch 21 Loss 0.00000065
+Epoch 22 Loss 0.00000057
+Epoch 23 Loss 0.00000050
+Epoch 24 Loss 0.00000046
+Epoch 25 Loss 0.00000043
+threshold=0.000175 (mu=0.000175, sigma=0.000108)
+[BASE] AUC=0.5235 ACC=0.5606 F1=0.6420
+PARAMS=245,024
+
+Pruning 10%
+Epoch 01 Loss 0.00000562
+Epoch 02 Loss 0.00000174
+Epoch 03 Loss 0.00000091
+AUC=0.5151 ACC=0.4242 F1=0.3770 SIZE=0.754MB
+
+Pruning 20%
+Epoch 01 Loss 0.00000987
+Epoch 02 Loss 0.00000310
+Epoch 03 Loss 0.00000168
+AUC=0.5500 ACC=0.5379 F1=0.6303 SIZE=0.596MB
+
+Pruning 30%
+Epoch 01 Loss 0.00001544
+Epoch 02 Loss 0.00000413
+Epoch 03 Loss 0.00000235
+AUC=0.4656 ACC=0.5076 F1=0.6061 SIZE=0.454MB
+
+Pruning 40%
+Epoch 01 Loss 0.00002018
+Epoch 02 Loss 0.00000536
+Epoch 03 Loss 0.00000291
+AUC=0.5418 ACC=0.5758 F1=0.6889 SIZE=0.334MB
+
+Pruning 50%
+Epoch 01 Loss 0.00003786
+Epoch 02 Loss 0.00000799
+Epoch 03 Loss 0.00000496
+AUC=0.4638 ACC=0.4015 F1=0.3680 SIZE=0.238MB
+
+======================================================================
+CLASS: sheet_metal
+======================================================================
+Epoch 01 Loss 0.00022534
+Epoch 02 Loss 0.00003369
+Epoch 03 Loss 0.00001702
+Epoch 04 Loss 0.00001136
+Epoch 05 Loss 0.00000839
+Epoch 06 Loss 0.00000694
+Epoch 07 Loss 0.00000591
+Epoch 08 Loss 0.00000512
+Epoch 09 Loss 0.00000464
+Epoch 10 Loss 0.00000429
+Epoch 11 Loss 0.00000366
+Epoch 12 Loss 0.00000345
+Epoch 13 Loss 0.00000325
+Epoch 14 Loss 0.00000289
+Epoch 15 Loss 0.00000251
+Epoch 16 Loss 0.00000222
+Epoch 17 Loss 0.00000206
+Epoch 18 Loss 0.00000180
+Epoch 19 Loss 0.00000157
+Epoch 20 Loss 0.00000146
+Epoch 21 Loss 0.00000128
+Epoch 22 Loss 0.00000116
+Epoch 23 Loss 0.00000106
+Epoch 24 Loss 0.00000097
+Epoch 25 Loss 0.00000089
+threshold=0.000428 (mu=0.000428, sigma=0.000391)
+[BASE] AUC=0.4903 ACC=0.5000 F1=0.6122
+PARAMS=245,024
+
+Pruning 10%
+Epoch 01 Loss 0.00000514
+Epoch 02 Loss 0.00000190
+Epoch 03 Loss 0.00000108
+AUC=0.4898 ACC=0.2632 F1=0.1923 SIZE=0.754MB
+
+Pruning 20%
+Epoch 01 Loss 0.00000562
+Epoch 02 Loss 0.00000223
+Epoch 03 Loss 0.00000121
+AUC=0.5495 ACC=0.3070 F1=0.2617 SIZE=0.596MB
+
+Pruning 30%
+Epoch 01 Loss 0.00001210
+Epoch 02 Loss 0.00000390
+Epoch 03 Loss 0.00000201
+AUC=0.4537 ACC=0.2456 F1=0.1569 SIZE=0.454MB
+
+Pruning 40%
+Epoch 01 Loss 0.00002134
+Epoch 02 Loss 0.00000550
+Epoch 03 Loss 0.00000311
+AUC=0.4694 ACC=0.2456 F1=0.1400 SIZE=0.334MB
+
+Pruning 50%
+Epoch 01 Loss 0.00002848
+Epoch 02 Loss 0.00000681
+Epoch 03 Loss 0.00000429
+AUC=0.5069 ACC=0.2105 F1=0.0000 SIZE=0.238MB
+
+======================================================================
+CLASS: vial
+======================================================================
+Epoch 01 Loss 0.00033873
+Epoch 02 Loss 0.00004887
+Epoch 03 Loss 0.00002259
+Epoch 04 Loss 0.00001341
+Epoch 05 Loss 0.00001019
+Epoch 06 Loss 0.00000830
+Epoch 07 Loss 0.00000703
+Epoch 08 Loss 0.00000607
+Epoch 09 Loss 0.00000534
+Epoch 10 Loss 0.00000477
+Epoch 11 Loss 0.00000428
+Epoch 12 Loss 0.00000387
+Epoch 13 Loss 0.00000349
+Epoch 14 Loss 0.00000315
+Epoch 15 Loss 0.00000284
+Epoch 16 Loss 0.00000254
+Epoch 17 Loss 0.00000228
+Epoch 18 Loss 0.00000203
+Epoch 19 Loss 0.00000180
+Epoch 20 Loss 0.00000158
+Epoch 21 Loss 0.00000139
+Epoch 22 Loss 0.00000123
+Epoch 23 Loss 0.00000109
+Epoch 24 Loss 0.00000097
+Epoch 25 Loss 0.00000086
+threshold=0.000548 (mu=0.000548, sigma=0.001192)
+[BASE] AUC=0.6384 ACC=0.4214 F1=0.3910
+PARAMS=245,024
+
+Pruning 10%
+Epoch 01 Loss 0.00000886
+Epoch 02 Loss 0.00000247
+Epoch 03 Loss 0.00000128
+AUC=0.5880 ACC=0.3643 F1=0.3101 SIZE=0.754MB
+
+Pruning 20%
+Epoch 01 Loss 0.00001052
+Epoch 02 Loss 0.00000322
+Epoch 03 Loss 0.00000155
+AUC=0.5442 ACC=0.3429 F1=0.2812 SIZE=0.596MB
+
+Pruning 30%
+Epoch 01 Loss 0.00001490
+Epoch 02 Loss 0.00000442
+Epoch 03 Loss 0.00000226
+AUC=0.5916 ACC=0.3500 F1=0.3259 SIZE=0.454MB
+
+Pruning 40%
+Epoch 01 Loss 0.00001331
+Epoch 02 Loss 0.00000433
+Epoch 03 Loss 0.00000219
+AUC=0.5644 ACC=0.3500 F1=0.2835 SIZE=0.334MB
+
+Pruning 50%
+Epoch 01 Loss 0.00002095
+Epoch 02 Loss 0.00000615
+Epoch 03 Loss 0.00000352
+AUC=0.5480 ACC=0.2500 F1=0.0000 SIZE=0.238MB
+
+======================================================================
+CLASS: wallplugs
+======================================================================
+Epoch 01 Loss 0.00030991
+Epoch 02 Loss 0.00003697
+Epoch 03 Loss 0.00002037
+Epoch 04 Loss 0.00001453
+Epoch 05 Loss 0.00001182
+Epoch 06 Loss 0.00001012
+Epoch 07 Loss 0.00000880
+Epoch 08 Loss 0.00000771
+Epoch 09 Loss 0.00000669
+Epoch 10 Loss 0.00000587
+Epoch 11 Loss 0.00000513
+Epoch 12 Loss 0.00000449
+Epoch 13 Loss 0.00000394
+Epoch 14 Loss 0.00000347
+Epoch 15 Loss 0.00000303
+Epoch 16 Loss 0.00000272
+Epoch 17 Loss 0.00000243
+Epoch 18 Loss 0.00000219
+Epoch 19 Loss 0.00000198
+Epoch 20 Loss 0.00000179
+Epoch 21 Loss 0.00000162
+Epoch 22 Loss 0.00000148
+Epoch 23 Loss 0.00000135
+Epoch 24 Loss 0.00000123
+Epoch 25 Loss 0.00000113
+threshold=0.000359 (mu=0.000359, sigma=0.000302)
+[BASE] AUC=0.5254 ACC=0.5400 F1=0.5548
+PARAMS=245,024
+
+Pruning 10%
+Epoch 01 Loss 0.00000818
+Epoch 02 Loss 0.00000321
+Epoch 03 Loss 0.00000197
+AUC=0.5996 ACC=0.6600 F1=0.7411 SIZE=0.754MB
+
+Pruning 20%
+Epoch 01 Loss 0.00001078
+Epoch 02 Loss 0.00000384
+Epoch 03 Loss 0.00000224
+AUC=0.4911 ACC=0.5400 F1=0.6791 SIZE=0.596MB
+
+Pruning 30%
+Epoch 01 Loss 0.00001635
+Epoch 02 Loss 0.00000585
+Epoch 03 Loss 0.00000331
+AUC=0.5372 ACC=0.6133 F1=0.7290 SIZE=0.454MB
+
+Pruning 40%
+Epoch 01 Loss 0.00002803
+Epoch 02 Loss 0.00000715
+Epoch 03 Loss 0.00000433
+AUC=0.4500 ACC=0.5933 F1=0.7109 SIZE=0.334MB
+
+Pruning 50%
+Epoch 01 Loss 0.00003254
+Epoch 02 Loss 0.00000810
+Epoch 03 Loss 0.00000520
+AUC=0.5773 ACC=0.6067 F1=0.6811 SIZE=0.238MB
+
+======================================================================
+CLASS: walnuts
+======================================================================
+Epoch 01 Loss 0.00020178
+Epoch 02 Loss 0.00002621
+Epoch 03 Loss 0.00001309
+Epoch 04 Loss 0.00000868
+Epoch 05 Loss 0.00000678
+Epoch 06 Loss 0.00000560
+Epoch 07 Loss 0.00000470
+Epoch 08 Loss 0.00000399
+Epoch 09 Loss 0.00000333
+Epoch 10 Loss 0.00000275
+Epoch 11 Loss 0.00000227
+Epoch 12 Loss 0.00000186
+Epoch 13 Loss 0.00000160
+Epoch 14 Loss 0.00000134
+Epoch 15 Loss 0.00000115
+Epoch 16 Loss 0.00000101
+Epoch 17 Loss 0.00000088
+Epoch 18 Loss 0.00000079
+Epoch 19 Loss 0.00000070
+Epoch 20 Loss 0.00000064
+Epoch 21 Loss 0.00000059
+Epoch 22 Loss 0.00000054
+Epoch 23 Loss 0.00000049
+Epoch 24 Loss 0.00000045
+Epoch 25 Loss 0.00000043
+threshold=0.000426 (mu=0.000426, sigma=0.000309)
+[BASE] AUC=0.6083 ACC=0.5933 F1=0.6013
+PARAMS=245,024
+
+Pruning 10%
+Epoch 01 Loss 0.00000349
+Epoch 02 Loss 0.00000109
+Epoch 03 Loss 0.00000060
+AUC=0.6550 ACC=0.6000 F1=0.6386 SIZE=0.754MB
+
+Pruning 20%
+Epoch 01 Loss 0.00000659
+Epoch 02 Loss 0.00000199
+Epoch 03 Loss 0.00000101
+AUC=0.5635 ACC=0.5067 F1=0.4394 SIZE=0.596MB
+
+Pruning 30%
+Epoch 01 Loss 0.00000942
+Epoch 02 Loss 0.00000300
+Epoch 03 Loss 0.00000161
+AUC=0.3576 ACC=0.4000 F1=0.4000 SIZE=0.454MB
+
+Pruning 40%
+Epoch 01 Loss 0.00001043
+Epoch 02 Loss 0.00000325
+Epoch 03 Loss 0.00000166
+AUC=0.5219 ACC=0.5800 F1=0.7014 SIZE=0.334MB
+
+Pruning 50%
+Epoch 01 Loss 0.00001848
+Epoch 02 Loss 0.00000512
+Epoch 03 Loss 0.00000259
+AUC=0.5781 ACC=0.5467 F1=0.5750 SIZE=0.238MB
+
+
+======================================================================
+FINAL RESULTS
+======================================================================
+Mean AUROC: 0.5431
+Exporting TorchScript...

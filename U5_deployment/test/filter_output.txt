@@ -1,0 +1,39 @@
+Image 1/252: mms_rpi_test_crack_hole_IMG_0038.h
+[PYTHON RECV] Anomaly score: 0.1379 (ANOMALY)
+Image 2/252: mms_rpi_test_crack_hole_IMG_0039.h
+[PYTHON RECV] Anomaly score: 0.1361 (ANOMALY)
+Image 3/252: mms_rpi_test_crack_hole_IMG_0040.h
+[PYTHON RECV] Anomaly score: 0.1291 (ANOMALY)
+Image 4/252: mms_rpi_test_crack_hole_IMG_0041.h
+[PYTHON RECV] Anomaly score: 0.1127 (ANOMALY)
+Image 5/252: mms_rpi_test_crack_hole_IMG_0042.h
+[PYTHON RECV] Anomaly score: 0.1398 (ANOMALY)
+Image 6/252: mms_rpi_test_crack_hole_IMG_0043.h
+[PYTHON RECV] Anomaly score: 0.1429 (ANOMALY)
+Image 7/252: mms_rpi_test_crack_hole_IMG_0044.h
+[PYTHON RECV] Anomaly score: 0.1347 (ANOMALY)
+Image 8/252: mms_rpi_test_crack_hole_IMG_0045.h
+[PYTHON RECV] Anomaly score: 0.1094 (ANOMALY)
+Image 9/252: mms_rpi_test_crack_hole_IMG_0046.h
+[PYTHON RECV] Anomaly score: 0.1419 (ANOMALY)
+Image 10/252: mms_rpi_test_crack_hole_IMG_0047.h
+[PYTHON RECV] Anomaly score: 0.1133 (ANOMALY)
+Image 11/252: mms_rpi_test_crack_hole_IMG_0048.h
+[PYTHON RECV] Anomaly score: 0.1314 (ANOMALY)
+Image 12/252: mms_rpi_test_crack_hole_IMG_0051.h
+[PYTHON RECV] Anomaly score: 0.1352 (ANOMALY)
+Image 13/252: mms_rpi_test_crack_hole_IMG_0054.h
+[PYTHON RECV] Anomaly score: 0.1408 (ANOMALY)
+Image 14/252: mms_rpi_test_crack_hole_IMG_0058.h
+[PYTHON RECV] Anomaly score: 0.1344 (ANOMALY)
+Image 15/252: mms_rpi_test_crack_hole_IMG_0221.h
+[PYTHON RECV] Anomaly score: 0.1459 (ANOMALY)
+Image 16/252: mms_rpi_test_crack_hole_IMG_0222.h
+[PYTHON RECV] Anomaly score: 0.1458 (ANOMALY)
+Image 17/252: mms_rpi_test_crack_hole_IMG_0223.h
+[PYTHON RECV] Anomaly score: 0.1181 (ANOMALY)
+Image 18/252: mms_rpi_test_crack_hole_IMG_0227.h
+[PYTHON RECV] Anomaly score: 0.1490 (ANOMALY)
+Image 19/252: mms_rpi_test_crack_hole_RPI_001.h
+[PYTHON RECV] Anomaly score: 0.0997 (ANOMALY)
+Image 20/252: mms_rpi_test_crack_hole_RPI_002.h

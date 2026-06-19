@@ -1,0 +1,4 @@
+../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h:3116:22:LL_PWR_ClearFlag_STOP	4	static
+../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h:3216:22:LL_PWR_ClearFlag_WU	4	static
+../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h:3243:22:LL_PWR_DisableNSecurePrivilege	4	static
+../Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_pwr.c:55:13:LL_PWR_DeInit	8	static

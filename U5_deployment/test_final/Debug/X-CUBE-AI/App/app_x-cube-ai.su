@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/app_x-cube-ai.c:66:13:DWT_Init	4	static
+../X-CUBE-AI/App/app_x-cube-ai.c:118:12:ai_boostrap	32	static
+../X-CUBE-AI/App/app_x-cube-ai.c:161:12:ai_run	16	static
+../X-CUBE-AI/App/app_x-cube-ai.c:194:6:init_memory_bank	32	static
+../X-CUBE-AI/App/app_x-cube-ai.c:218:24:get_cycles	4	static
+../X-CUBE-AI/App/app_x-cube-ai.c:246:6:adaptive_avg_pool_1x1	64	static
+../X-CUBE-AI/App/app_x-cube-ai.c:284:6:adaptive_avg_pool_2x2	120	static
+../X-CUBE-AI/App/app_x-cube-ai.c:343:6:pool_features	56	static
+../X-CUBE-AI/App/app_x-cube-ai.c:427:7:compute_anomaly_score	40	static
+../X-CUBE-AI/App/app_x-cube-ai.c:451:5:acquire_and_process_data	24	static
+../X-CUBE-AI/App/app_x-cube-ai.c:483:5:post_process	64	static
+../X-CUBE-AI/App/app_x-cube-ai.c:586:6:MX_X_CUBE_AI_Init	8	static
+../X-CUBE-AI/App/app_x-cube-ai.c:605:6:MX_X_CUBE_AI_Process	32	static

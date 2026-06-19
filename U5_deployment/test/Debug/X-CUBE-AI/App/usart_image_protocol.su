@@ -1,0 +1,5 @@
+../X-CUBE-AI/App/usart_image_protocol.c:15:10:usart_crc16	32	static
+../X-CUBE-AI/App/usart_image_protocol.c:36:5:usart_protocol_init	16	static
+../X-CUBE-AI/App/usart_image_protocol.c:48:12:usart_recv_byte	32	static
+../X-CUBE-AI/App/usart_image_protocol.c:58:5:usart_receive_image	56	static
+../X-CUBE-AI/App/usart_image_protocol.c:152:5:usart_send_result	56	static

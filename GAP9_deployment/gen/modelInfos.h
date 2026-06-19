@@ -1,0 +1,106 @@
+#ifndef NETWORK_GRAPHINFO_H
+#define NETWORK_GRAPHINFO_H
+// Quantized scales can be used round_norm(val * QSCALE, QNORM) giving the real value in Q8
+// Input_1
+#define network_Input_1_OUT_SCALE	0.01845340058207512
+#define network_Input_1_OUT_QSCALE	76
+#define network_Input_1_OUT_QNORM	12
+#define network_Input_1_OUT_ZERO_POINT	115
+#define network_Input_1_Q	0
+// S2__net_net_0_Conv_weights
+#define network_S2__net_net_0_Conv_weights_OUT_SCALE	0.001536682015284896
+#define network_S2__net_net_0_Conv_weights_OUT_QSCALE	101
+#define network_S2__net_net_0_Conv_weights_OUT_QNORM	16
+#define network_S2__net_net_0_Conv_weights_OUT_ZERO_POINT	128
+#define network_S2__net_net_0_Conv_weights_Q	0
+// S3_constant_net_0_bias_quantized
+#define network_S3_constant_net_0_bias_quantized_OUT_SCALE	2.8357008795322665e-05
+#define network_S3_constant_net_0_bias_quantized_OUT_QSCALE	119
+#define network_S3_constant_net_0_bias_quantized_OUT_QNORM	22
+#define network_S3_constant_net_0_bias_quantized_OUT_ZERO_POINT	0
+#define network_S3_constant_net_0_bias_quantized_Q	0
+// S4__net_net_0_Conv
+#define network_S4__net_net_0_Conv_OUT_SCALE	0.007997564040124416
+#define network_S4__net_net_0_Conv_OUT_QSCALE	66
+#define network_S4__net_net_0_Conv_OUT_QNORM	13
+#define network_S4__net_net_0_Conv_OUT_ZERO_POINT	128
+#define network_S4__net_net_0_Conv_Q	0
+// S5__net_net_2_Conv_weights
+#define network_S5__net_net_2_Conv_weights_OUT_SCALE	0.0007036055321805179
+#define network_S5__net_net_2_Conv_weights_OUT_QSCALE	92
+#define network_S5__net_net_2_Conv_weights_OUT_QNORM	17
+#define network_S5__net_net_2_Conv_weights_OUT_ZERO_POINT	128
+#define network_S5__net_net_2_Conv_weights_Q	0
+// S6_constant_net_2_bias_quantized
+#define network_S6_constant_net_2_bias_quantized_OUT_SCALE	5.627130302599513e-06
+#define network_S6_constant_net_2_bias_quantized_OUT_QSCALE	94
+#define network_S6_constant_net_2_bias_quantized_OUT_QNORM	24
+#define network_S6_constant_net_2_bias_quantized_OUT_ZERO_POINT	0
+#define network_S6_constant_net_2_bias_quantized_Q	0
+// S7__net_net_2_Conv
+#define network_S7__net_net_2_Conv_OUT_SCALE	0.001389561453834176
+#define network_S7__net_net_2_Conv_OUT_QSCALE	91
+#define network_S7__net_net_2_Conv_OUT_QNORM	16
+#define network_S7__net_net_2_Conv_OUT_ZERO_POINT	128
+#define network_S7__net_net_2_Conv_Q	0
+// S8__net_net_4_Conv_weights
+#define network_S8__net_net_4_Conv_weights_OUT_SCALE	0.0007111002923920751
+#define network_S8__net_net_4_Conv_weights_OUT_QSCALE	93
+#define network_S8__net_net_4_Conv_weights_OUT_QNORM	17
+#define network_S8__net_net_4_Conv_weights_OUT_ZERO_POINT	128
+#define network_S8__net_net_4_Conv_weights_Q	0
+// S9_constant_net_4_bias_quantized
+#define network_S9_constant_net_4_bias_quantized_OUT_SCALE	9.881175561182395e-07
+#define network_S9_constant_net_4_bias_quantized_OUT_QSCALE	66
+#define network_S9_constant_net_4_bias_quantized_OUT_QNORM	26
+#define network_S9_constant_net_4_bias_quantized_OUT_ZERO_POINT	0
+#define network_S9_constant_net_4_bias_quantized_Q	0
+// S10__net_net_4_Conv
+#define network_S10__net_net_4_Conv_OUT_SCALE	0.0007850776892155409
+#define network_S10__net_net_4_Conv_OUT_QSCALE	103
+#define network_S10__net_net_4_Conv_OUT_QNORM	17
+#define network_S10__net_net_4_Conv_OUT_ZERO_POINT	128
+#define network_S10__net_net_4_Conv_Q	0
+// S11__net_net_6_Conv_weights
+#define network_S11__net_net_6_Conv_weights_OUT_SCALE	0.0005881856195628643
+#define network_S11__net_net_6_Conv_weights_OUT_QSCALE	77
+#define network_S11__net_net_6_Conv_weights_OUT_QNORM	17
+#define network_S11__net_net_6_Conv_weights_OUT_ZERO_POINT	128
+#define network_S11__net_net_6_Conv_weights_Q	0
+// S12_constant_net_6_bias_quantized
+#define network_S12_constant_net_6_bias_quantized_OUT_SCALE	4.6177140703622475e-07
+#define network_S12_constant_net_6_bias_quantized_OUT_QSCALE	124
+#define network_S12_constant_net_6_bias_quantized_OUT_QNORM	28
+#define network_S12_constant_net_6_bias_quantized_OUT_ZERO_POINT	0
+#define network_S12_constant_net_6_bias_quantized_Q	0
+// S13__net_net_6_Conv
+#define network_S13__net_net_6_Conv_OUT_SCALE	9.291863306334206e-05
+#define network_S13__net_net_6_Conv_OUT_QSCALE	97
+#define network_S13__net_net_6_Conv_OUT_QNORM	20
+#define network_S13__net_net_6_Conv_OUT_ZERO_POINT	128
+#define network_S13__net_net_6_Conv_Q	0
+// S14__net_net_8_Conv_weights
+#define network_S14__net_net_8_Conv_weights_OUT_SCALE	0.0004133288166485727
+#define network_S14__net_net_8_Conv_weights_OUT_QSCALE	108
+#define network_S14__net_net_8_Conv_weights_OUT_QNORM	18
+#define network_S14__net_net_8_Conv_weights_OUT_ZERO_POINT	128
+#define network_S14__net_net_8_Conv_weights_Q	0
+// S15_constant_net_8_bias_quantized
+#define network_S15_constant_net_8_bias_quantized_OUT_SCALE	3.840594864867411e-08
+#define network_S15_constant_net_8_bias_quantized_OUT_QSCALE	82
+#define network_S15_constant_net_8_bias_quantized_OUT_QNORM	31
+#define network_S15_constant_net_8_bias_quantized_OUT_ZERO_POINT	0
+#define network_S15_constant_net_8_bias_quantized_Q	0
+// S16__net_net_8_Conv
+#define network_S16__net_net_8_Conv_OUT_SCALE	9.255566965293838e-05
+#define network_S16__net_net_8_Conv_OUT_QSCALE	97
+#define network_S16__net_net_8_Conv_OUT_QNORM	20
+#define network_S16__net_net_8_Conv_OUT_ZERO_POINT	128
+#define network_S16__net_net_8_Conv_Q	0
+// Output_1
+#define network_Output_1_OUT_SCALE	9.255566965293838e-05
+#define network_Output_1_OUT_QSCALE	97
+#define network_Output_1_OUT_QNORM	20
+#define network_Output_1_OUT_ZERO_POINT	128
+#define network_Output_1_Q	0
+#endif //NETWORK_GRAPHINFO_H
